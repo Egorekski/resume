@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    max-width: 850px;
+    max-width: 750px;
     margin: auto;
     margin-top: 30px;
 }
@@ -189,10 +189,5 @@ a:active {
     .info {
         display: block;
         text-align: center;
-    }
-}
-@media (min-width: 850px) {
-    .img {
-        margin-left: 25px;
     }
 }
