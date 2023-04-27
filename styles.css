@@ -190,4 +190,7 @@ a:active {
         display: block;
         text-align: center;
     }
+    .info-text {
+        margin-left: 5px;
+    }
 }
